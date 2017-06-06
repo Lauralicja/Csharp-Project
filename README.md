@@ -1,0 +1,1 @@
+Projekt będzie wykonany w środowisku Unity. Będzie to popularna gra Tetris. Załączę do niego odpowiednie grafiki. Możliwe będzie zdobywanie punktów, tablica z wynikami. Z czasem klocki będą przyspieszać, co nada grze odpowiedniego poziomu. Projekt wykonuje jedna osoba - Laura Żuchowska.
