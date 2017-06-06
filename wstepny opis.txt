@@ -1,0 +1,1 @@
+Projekt bêdzie wykonany w œrodowisku Unity. Bêdzie to popularna gra Tetris. Za³¹czê do niego odpowiednie grafiki. Mo¿liwe bêdzie zdobywanie punktów, tablica z wynikami. Z czasem klocki bêd¹ przyspieszaæ, co nada grze odpowiedniego poziomu. Projekt wykonuje jedna osoba - Laura ¯uchowska.
